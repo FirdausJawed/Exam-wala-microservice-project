@@ -1,0 +1,8 @@
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/Application.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/Controller/quizController.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/entity/Quiz.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/entity/question.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/repository/quizRepository.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/service/impl/quizServiceImpl.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/service/questionClient.java
+/Users/firdaus/Desktop/microservices/microservices.quiz/src/main/java/com/FjTechTale/quiz/microservices/quiz/service/quizService.java
