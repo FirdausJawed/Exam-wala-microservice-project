@@ -1,0 +1,6 @@
+com/FjTechTale/question/microservices/question/service/questionService.class
+com/FjTechTale/question/microservices/question/Application.class
+com/FjTechTale/question/microservices/question/entity/question.class
+com/FjTechTale/question/microservices/question/service/impl/questionimpl.class
+com/FjTechTale/question/microservices/question/repository/questionRepository.class
+com/FjTechTale/question/microservices/question/controller/questionController.class
