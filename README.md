@@ -1,4 +1,4 @@
-# 🐣 QuizNest – Microservice-Based Online Exam System
+# 🐣 Examina – Microservice-Based Online Exam System
 
 A cozy and modular microservice-based platform for managing online exams, quizzes, results, and user roles. Built using Spring Boot and modern backend architecture for scalability, flexibility, and developer happiness.
 
@@ -21,13 +21,13 @@ A cozy and modular microservice-based platform for managing online exams, quizze
 
 ## 📝 Overview
 
-**QuizNest** is a distributed system designed to simplify the management of online tests. Whether it's academic exams, corporate assessments, or fun quizzes—QuizNest helps manage everything in a modular, scalable, and developer-friendly way.
+**Examina** is a distributed system designed to simplify the management of online tests. Whether it's academic exams, corporate assessments, or fun quizzes—Examina helps manage everything in a modular, scalable, and developer-friendly way.
 
 ---
 
 ## 🏛 Architecture
 
-QuizNest uses microservices to encapsulate different responsibilities such as user management, exams, question banks, and result processing.
+Examina uses microservices to encapsulate different responsibilities such as user management, exams, question banks, and result processing.
 
 ```plaintext
 +------------------+        +--------------------+        +------------------+
@@ -136,7 +136,7 @@ Content-Type: application/json
 ## 📁 Folder Structure
 
 ```bash
-QuizNest/
+Examina/
 │
 ├── user-service/
 ├── exam-service/
